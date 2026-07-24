@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationspringhill.com/sitemap.xml
